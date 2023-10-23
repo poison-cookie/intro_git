@@ -3,3 +3,4 @@ Gitの基本操作を学びます！
 検証
 git add
 git re
+git status
