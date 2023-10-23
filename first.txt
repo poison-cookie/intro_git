@@ -4,3 +4,4 @@ Gitの基本操作を学びます！
 git add
 git re
 git status
+git diff
